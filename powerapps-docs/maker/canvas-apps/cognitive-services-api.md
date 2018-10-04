@@ -82,7 +82,7 @@ First, you create a blank phone app and add a connection with the **Text Analyti
     ![Text analytics connector](./media/cognitive-services-api/create-connection-ta.png)
 
 ### Add controls to the app
-The next step in creating the app is to add all the controls. Normally when I build apps, I add formulas to the controls as I go, but in this case we'll focus on the controls first, then add a few formulas in the next section. The following image shows the app with all the controls.
+The next step in creating the app is to add all the controls. Normally when you build apps, You will add formulas to the controls as you go, but in this case we'll focus on the controls first, then add a few formulas in the next section. The following image shows the app with all the controls.
 
 ![Finished app](./media/cognitive-services-api/finished-app-no-data.png)
 
